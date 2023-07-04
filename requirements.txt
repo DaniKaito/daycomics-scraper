@@ -1,0 +1,4 @@
+pandas==1.5.3
+Requests==2.31.0
+selenium==4.10.0
+undetected_chromedriver==3.5.0
